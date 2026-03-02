@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm [Your Name]
 
-<!--
-**wRaphaell/wRaphaell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack developer with a strong low-level mindset.
+I like building clean systems — from UI to memory management.
 
-Here are some ideas to get you started:
+🧠 Languages
+<p> <img src="https://skillicons.dev/icons?i=c,cpp,haskell,ts,js,sql,bash" /> </p>
+🚀 Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,bun,docker" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Node.js · Bun · ElysiaJS · SQL · Docker
+
+🎨 Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,lit,tailwind,sass" /> </p>
+
+React · Lit · Tailwind · SCSS
+
+🎯 Looking for
+
+4–6 month internship starting in April
+Backend · Fullstack · Systems · Performance
+
+Si tu veux encore plus minimal (presque “brutaliste”), je peux te faire une version encore plus compacte 👀
