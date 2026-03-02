@@ -1,53 +1,43 @@
-Hi there, I'm Raphael 👋
-Software Engineer | Fullstack Developer
+# Hi, I'm Raphael 👋
 
-I’m a passionate developer who enjoys bridging the gap between low-level performance and modern web scalability. From functional programming in Haskell to building reactive UIs, I love exploring every layer of the stack.
-🚀 Seeking an Internship
+### Software & Fullstack Engineer
+**Focused on performance, scalability, and clean code.**
 
-I am currently looking for a 4 to 6-month internship starting in April 2026. I’m eager to contribute to impactful projects and join a team where I can push my technical boundaries.
+---
 
-    Availability: April 2026 – August/October 2026
+### 🛠️ Tech Stack
 
-    Roles: Software Engineer, Fullstack Developer, Backend Developer
+#### Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-🛠️ Tech Stack
-Languages
+#### Frameworks & Runtimes
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Lit](https://img.shields.io/badge/lit-blueviolet?style=for-the-badge&logo=lit&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-black?style=for-the-badge)
 
-<p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,haskell,ts,js,bash" />
-</p>
+#### Styling & Tools
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-    Low-level & Functional: C, C++, Haskell
+---
 
-    Web & Scripting: TypeScript, JavaScript, Bash
+### 🎯 Internship Search
+* **Role:** Software Engineer / Fullstack Developer
+* **Duration:** 4 to 6 months
+* **Start Date:** April 2026
+* **Location:** [Montpellier / Bordeaux / Remote / Hybrid]
 
-Frameworks & Runtimes
+---
 
-<p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,lit,nodejs,bun,elysia" />
-</p>
-
-    Frontend: React, Lit.js
-
-    Backend & Runtimes: Node.js, Bun, ElysiaJs
-
-Tools & Styling
-
-<p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddocker,postgres,tailwind,sass" />
-</p>
-
-    Infrastructure: Docker, SQL (PostgreSQL/MySQL)
-
-    Design/Styling: Tailwind CSS, SCSS
-
-📊 GitHub Stats
-
-<p align="left">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D[YOUR-GITHUB-USERNAME]&show_icons=true&theme=transparent" alt="Stats" width="400"/>
-</p>
-📫 Let's Connect
-
-    LinkedIn: https://www.linkedin.com/in/raphael-rattelli/
-
-    Email: raphael.rattelli@epitech.eu
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-rattelli/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphael.rattelli@epitech.eu)
