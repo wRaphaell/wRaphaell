@@ -45,7 +45,7 @@
 
 ### 📊 Contribution Graph
 
-![snake gif](https://raw.githubusercontent.com/wRaphaell/wRaphaell/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/[TON_PSEUDO]/[TON_PSEUDO]/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
