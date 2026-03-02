@@ -38,6 +38,11 @@
 
 ---
 
+### 📊 Contribution Graph
+![snake gif](https://raw.githubusercontent.com/wRaphaell/wRaphaell/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-rattelli/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphael.rattelli@epitech.eu)
